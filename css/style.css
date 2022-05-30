@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&family=Source+Sans+Pro:wght@300&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/card.css");
+@import url("components/slideshow.css");
+@import url("components/fade-in.css");
+@import url("components/dots.css");
+@import url("components/banner1.css");
+@import url("components/banner2.css");
+@import url("components/banner3.css");
+@import url("components/banner4.css");
+@import url("components/active.css");
+
+
+body {
+  font-family: 'Roboto', serif;
+  font-size: 18px;
+  margin: 0px;
+}
+
+h1,h2,h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+a {
+  text-decoration: none;
+}
